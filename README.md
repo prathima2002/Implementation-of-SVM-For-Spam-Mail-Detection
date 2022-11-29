@@ -54,8 +54,9 @@ accuracy
 ```
 
 ## Output:
-![SVM For Spam Mail Detection](sam.png)
-<img width="494" alt="image" src="https://user-images.githubusercontent.com/108709865/204500488-31ea0686-a85b-47b7-b148-a8af37d6c3ed.png">
+<img width="834" alt="image" src="https://user-images.githubusercontent.com/108709865/204501644-5ccb7efb-5ec2-4f50-8135-3dac45d4ff2a.png">
+<img width="897" alt="image" src="https://user-images.githubusercontent.com/108709865/204501842-dd7fb369-fd7d-4098-84b1-dbfcbe08f353.png">
+
 
 
 ## Result:
